@@ -18,19 +18,25 @@ To get started with this repository, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Akashjitu18/DSA-Programs.git
+   cd DSA-Programs
 
 2. **Explore the Directories**
 
 3. **Navigate to the directory corresponding to the data structure you are interested in**:
 
 Arrays: Basic and dynamic arrays.
+
 Linked Lists: Singly and doubly linked lists.
+
 Stacks: Stack implementations.
+
 Queues: Queue implementations.
+
 Trees: Binary trees and binary search trees.
+
 Graphs: Graphs using adjacency matrix and list.
+
 Each directory contains code and examples for the respective data structure.
 
 Usage
